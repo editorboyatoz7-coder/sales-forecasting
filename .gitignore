@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# Outputs (generated files - optional to ignore)
+outputs/*.pkl
+outputs/*.csv
+
+# Keep folder structure
+!outputs/.gitkeep
